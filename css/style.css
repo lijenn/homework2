@@ -1,7 +1,5 @@
 body {
     font-family: Verdana, Arial;
-    background-color: #000000;
-    color: #FFF;
     margin: 25px 25px 0 25px;
 }
 
@@ -34,14 +32,14 @@ div {
 }
 
 .red {
-    background-color: #ff1a1a;
+    background-color: #ff9999;
     text-align: right;
     margin-left: 50px;
     border-width: 0 0 3px 10px;
 }
 
 .blue {
-    background-color: #3333ff;
+    background-color:  #1aa3ff;
     text-align: left;
     margin-right: 50px;
     border-width: 0 10px 3px 0;
